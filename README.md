@@ -1,7 +1,8 @@
-#Pet_Adoption
-Here I have created a simple web page containg some information about pets.
-I have used different properties of div to create a card like stucture
+# Pet Adoption
 
-#Technologies_Used
--HTML%=5
--CSS3
+This is a simple web page containing information about pets. I have utilized various properties of HTML and CSS to create a card-like structure for displaying pet information.
+
+## Technologies Used
+
+- HTML5
+- CSS3
